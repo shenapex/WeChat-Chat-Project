@@ -15,10 +15,11 @@
 | 原仓库链接                                       | 项目名称                                                     | 许可证 | 状态 | 备注                    |
 | ------------------------------------------------ | ------------------------------------------------------------ | ------ | ---- | ----------------------- |
 | [WeChatDB](https://github.com/lich0821/WeChatDB) | [WeChatDB](https://github.com/shenapex/WeChat-Chat-Project/blob/main/project/lich0821-WeChatDB) | MIT    | 🔴    | 仅支持旧版Windows端微信 |
+| [PyWxDump](https://github.com/xaoyaoo/PyWxDump)  | [PyWxDump](https://github.com/shenapex/WeChat-Chat-Project/blob/main/project/xaoyaoo-PyWxDump) | MIT    | 🔴    |                         |
 
 状态说明：
 
-🔴 不可抗力因素，原仓库已删库
+🔴 不可抗力因素，原仓库已删库（不代表项目可用性）
 
 🟡 超1年未更新的仓库
 

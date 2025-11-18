@@ -12,10 +12,11 @@
 
 本仓库按照**开发者 -项目名称**的方式进行归档整理
 
-| 原仓库链接                                       | 项目名称                                                     | 许可证 | 状态 | 备注                    |
-| ------------------------------------------------ | ------------------------------------------------------------ | ------ | ---- | ----------------------- |
-| [WeChatDB](https://github.com/lich0821/WeChatDB) | [WeChatDB](https://github.com/shenapex/WeChat-Chat-Project/blob/main/project/lich0821-WeChatDB) | MIT    | 🔴    | 仅支持旧版Windows端微信 |
-| [PyWxDump](https://github.com/xaoyaoo/PyWxDump)  | [PyWxDump](https://github.com/shenapex/WeChat-Chat-Project/blob/main/project/xaoyaoo-PyWxDump) | MIT    | 🔴    |                         |
+| 仓库作者                                         | 项目名称                                                     | 许可证     | 状态 | 备注                       |
+| ------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---- | -------------------------- |
+| [lich0821](https://github.com/lich0821/WeChatDB) | [WeChatDB](https://github.com/shenapex/WeChat-Chat-Project/blob/main/project/lich0821-WeChatDB) | MIT        | 🔴    | 仅支持旧版Windows端微信    |
+| [xaoyaoo](https://github.com/xaoyaoo/PyWxDump)   | [PyWxDump](https://github.com/shenapex/WeChat-Chat-Project/blob/main/project/xaoyaoo-PyWxDump) | MIT        | 🔴    | 全版本支持 Windows / macOS |
+| [sjzar](https://github.com/sjzar/chatlog)        | [chatlog](https://github.com/shenapex/WeChat-Chat-Project/blob/main/project/sjzar-chatlog) | Apache-2.0 | 🔴    | 全版本支持 Windows / macOS |
 
 状态说明：
 

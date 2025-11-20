@@ -12,29 +12,32 @@
 
 本仓库按照**开发者 -项目名称**的方式进行归档整理
 
-| 仓库作者                                                     | 项目名称                                                     | 许可证     | 状态 | 备注                       | 更新时间   |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---- | -------------------------- | ---------- |
-| [lich0821](https://github.com/lich0821/WeChatDB)             | [WeChatDB](https://github.com/shenapex/WeChat-Chat-Project/blob/main/project/lich0821-WeChatDB) | MIT        | 🔴    | 仅支持旧版Windows端微信    | --         |
-| [xaoyaoo](https://github.com/xaoyaoo/PyWxDump)               | [PyWxDump](https://github.com/shenapex/WeChat-Chat-Project/blob/main/project/xaoyaoo-PyWxDump) | MIT        | 🔴    | 全版本支持 Windows / macOS | --         |
-| [sjzar](https://github.com/sjzar/chatlog)                    | [chatlog](https://github.com/shenapex/WeChat-Chat-Project/blob/main/project/sjzar-chatlog) | Apache-2.0 | 🔴    | 全版本支持 Windows / macOS | --         |
-| [LifeArchiveProject](https://github.com/LifeArchiveProject/WeChatDataAnalysis) | [WeChatDataAnalysis](https://github.com/shenapex/WeChat-Chat-Project/tree/main/project/LifeArchiveProject-WeChatDataAnalysis) | 🈚          | 🟢    | 密钥需自己获取             | 2025-11-19 |
-| [gzygood](https://github.com/gzygood/DbkeyHook)              | [DbkeyHook](https://github.com/shenapex/WeChat-Chat-Project/tree/main/project/gzygood-DbkeyHook) | 🈚          | 🟢    | 获取dbkey的项目            | 2025-11-19 |
-| [recarto404](https://github.com/recarto404/WxDatDecrypt)     | [WxDatDecrypt](https://github.com/shenapex/WeChat-Chat-Project/tree/main/project/recarto404-WxDatDecrypt) | MIT        | 🟢    | 微信图片查看器             | 2025-11-19 |
+| 仓库作者                                                     | 项目名称                                                     | 许可证     | 状态 | 备注                       | 最后更新时间 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---- | -------------------------- | ------------ |
+| [lich0821](https://github.com/lich0821/WeChatDB)             | [WeChatDB](https://github.com/shenapex/WeChat-Chat-Project/blob/main/project/lich0821-WeChatDB) | MIT        | 🔴    | 仅支持旧版Windows端微信    | 2025-5-27    |
+| [xaoyaoo](https://github.com/xaoyaoo/PyWxDump)               | [PyWxDump](https://github.com/shenapex/WeChat-Chat-Project/blob/main/project/xaoyaoo-PyWxDump) | MIT        | 🔴    | 全版本支持 Windows / macOS | 2025-10-20   |
+| [sjzar](https://github.com/sjzar/chatlog)                    | [chatlog](https://github.com/shenapex/WeChat-Chat-Project/blob/main/project/sjzar-chatlog) | Apache-2.0 | 🔴    | 全版本支持 Windows / macOS | 2025-10-20   |
+| [LC044](https://github.com/LC044/WeChatMsg)                  | [WeChatMsg](https://github.com/shenapex/WeChat-Chat-Project/blob/main/project/LC044-WeChatMsg) | MIT        | 🔴    | 全版本支持 Windows         | 2025-04-17   |
+| [LifeArchiveProject](https://github.com/LifeArchiveProject/WeChatDataAnalysis) | [WeChatDataAnalysis](https://github.com/shenapex/WeChat-Chat-Project/tree/main/project/LifeArchiveProject-WeChatDataAnalysis) | 🈚          | 🟢    | 密钥需自己获取             | 2025-11-19   |
+| [gzygood](https://github.com/gzygood/DbkeyHook)              | [DbkeyHook](https://github.com/shenapex/WeChat-Chat-Project/tree/main/project/gzygood-DbkeyHook) | 🈚          | 🟢    | 获取dbkey的项目            | 2025-11-19   |
+| [recarto404](https://github.com/recarto404/WxDatDecrypt)     | [WxDatDecrypt](https://github.com/shenapex/WeChat-Chat-Project/tree/main/project/recarto404-WxDatDecrypt) | MIT        | 🟢    | 微信图片查看器             | 2025-11-19   |
 
 
 
-状态说明：
+状态说明（不代表项目可用性）：
 
-🔴 不可抗力因素，原仓库已删库（不代表项目可用性）
+🔴 不可抗力因素，原仓库已停止更新
 
 🟡 超1年未更新的仓库
 
 🟢 活跃维护
 
+最后更新时间：已停止更新的仓库以原仓库最后更新时间为准，仍在维护的仓库以本仓库最后合并时间为准
+
 版本说明：
 
 微信于2025年3月31日发布了第一个Windows平台4.0系列正式版**4.0.3**
 
-在此之前的3.9版本称为**旧版**，最后一个旧版版本为**[3.9.12](https://dldir1v6.qq.com/weixin/Windows/WeChatSetup_x86.exe)**
+在此之前的3.9版本称为**旧版**，最后一个旧版版本为[3.9.12](https://dldir1v6.qq.com/weixin/Windows/WeChatSetup_x86.exe)
 
 4.0开始微信更改了数据库加密方式，与3.9版本方式不一致

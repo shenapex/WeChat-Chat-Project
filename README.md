@@ -21,6 +21,8 @@
 | [LifeArchiveProject](https://github.com/LifeArchiveProject/WeChatDataAnalysis) | [WeChatDataAnalysis](https://github.com/shenapex/WeChat-Chat-Project/tree/main/project/LifeArchiveProject-WeChatDataAnalysis) | 🈚          | 🟢    | 密钥需自己获取             | 2025-11-19   |
 | [gzygood](https://github.com/gzygood/DbkeyHook)              | [DbkeyHook](https://github.com/shenapex/WeChat-Chat-Project/tree/main/project/gzygood-DbkeyHook) | 🈚          | 🟢    | 获取dbkey的项目            | 2025-11-19   |
 | [recarto404](https://github.com/recarto404/WxDatDecrypt)     | [WxDatDecrypt](https://github.com/shenapex/WeChat-Chat-Project/tree/main/project/recarto404-WxDatDecrypt) | MIT        | 🟢    | 微信图片查看器             | 2025-11-19   |
+| [git-jiadong](https://github.com/git-jiadong/wechatDataBackup) | [wechatDataBackup](https://github.com/shenapex/WeChat-Chat-Project/blob/main/project/git-jiadong-wechatDataBackup) | Apache-2.0 | 🟢    | 全版本支持 Windows         | 2025-11-20   |
+| [ycccccccy](https://github.com/ycccccccy/wx_key)             | [wx_key](https://github.com/shenapex/WeChat-Chat-Project/blob/main/project/ycccccccy-wx_key) | MIT        | 🟢    | 支持新版本Windows          | 2025-11-20   |
 
 
 
